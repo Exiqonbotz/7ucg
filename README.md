@@ -18,11 +18,11 @@
 
 <div align="center">
     <div>
-        <span>👋 Hello I'm Baron</span>
+        <span>👋 Hello I'am Baron</span>
         <br>
-        <span>📌 I'm Live in Germany</span>
+        <span>📌 I Live in Germany</span>
         <br>
-        <span>📌 My Hobbies is Coding </span>
+        <span>📌 My Hobbys are Coding </span>
     </div>
 </div>
 
